@@ -12,8 +12,8 @@ quick access to these features in GNU Radio Companion.
 ## Table of Contents
 
 1. [Installation](#installation)
-   2. [CMake Process](#cmake-install)
-   3. [Conda](#conda-install)
+    1. [CMake Process](#cmake-install)
+    2. [Conda](#conda-install)
 2. [Usage](#usage)
     1. [Message Print Block](#message-print)
     2. [PDU Decoder Block](#pdu-decoder)
@@ -41,6 +41,8 @@ This module also supports installation into [Conda] (https://wiki.gnuradio.org/i
 environments. Activate your environment, then run the following (replacing "base"
 with your environment name if different):
 ```
+conda install -n base conda-build conda-forge-pinning
+conda upgrade -n base conda-build conda-forge-pinning
 cd gr-flabs_class
 conda build .conda/recipe/ -m ${CONDA_PREFIX}/conda_build_config.yaml
 conda install --use-local --force-reinstall -n base gnuradio-flabs_class
