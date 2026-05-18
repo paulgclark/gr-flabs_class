@@ -530,3 +530,5 @@ Small docs-only change from LaForge for workflow validation.
 - 2026-05-18T20:34:17Z completion-closure-followup
 
 - 2026-05-18T21:34:44Z final-status-escalation-followup
+
+- 2026-05-18T22:35:13Z completion-readiness-followup
