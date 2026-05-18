@@ -500,3 +500,5 @@ Small docs-only change from LaForge for workflow validation.
 - 2026-05-18T05:26:35Z closeout-followup
 
 - 2026-05-18T06:27:08Z merge-readiness-followup
+
+- 2026-05-18T07:27:41Z final-approval-followup
