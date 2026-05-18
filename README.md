@@ -512,3 +512,5 @@ Small docs-only change from LaForge for workflow validation.
 - 2026-05-18T11:29:41Z completion-gate-followup
 
 - 2026-05-18T12:30:09Z finalization-followup
+
+- 2026-05-18T13:30:41Z closeout-escalation-followup
