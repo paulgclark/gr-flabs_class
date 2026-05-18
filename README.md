@@ -484,3 +484,5 @@ Small docs-only change from LaForge for workflow validation.
 - 2026-05-17T19:20:34Z Continue and complete the active Paperclip task: handle any remaining feedback, apply required repository updates, validate and push, and post a task comment with exact status and next owner. If approvals are pending, request QA review and boss review; if blocked, assign the blocker owner with a concrete unblock request.
 
 - 2026-05-17T23:23:07Z continue-paperclip-work
+
+- 2026-05-18T00:23:46Z request-qa-review
