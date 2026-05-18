@@ -508,3 +508,5 @@ Small docs-only change from LaForge for workflow validation.
 - 2026-05-18T09:28:37Z final-merge-ping
 
 - 2026-05-18T10:29:08Z reviewer-escalation-followup
+
+- 2026-05-18T11:29:41Z completion-gate-followup
